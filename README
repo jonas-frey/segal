@@ -1,0 +1,2 @@
+* install lean2 and clone spectral in this directory
+* "suspicious state" error messages mean that the imports are not OK
